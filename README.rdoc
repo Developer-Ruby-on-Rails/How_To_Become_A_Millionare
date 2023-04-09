@@ -4,4 +4,4 @@
 
 Учебное приложение курса по Ruby on Rails от «Хорошего программиста». В продакшене настроено на работу с Heroku.
 
-© http://goodprogrammer.ru
+© Хороший программист Murtazali Rasulov https://hh.ru/resume/2d60f62aff035cda820039ed1f4d47616e3541
